@@ -78,4 +78,4 @@ Your liturgical build chamber:
 
 ---
 
-Let me know if you'd like this exported as a `.md`, `.pdf`, or styled for Jupyter Book directly.
+Let us know if you have any questions!
